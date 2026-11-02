@@ -1,0 +1,9 @@
+out/
+target/
+.m2/
+data/
+app*.log
+*.class
+*.jar
+.idea/
+.vscode/
